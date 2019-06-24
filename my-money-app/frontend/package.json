@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "admin-lte": "2.3.11",
     "axios": "0.18.0",
@@ -45,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.4"
+    "webpack-cli": "^3.3.4",
+    "http-server": "0.10.0"
   }
 }

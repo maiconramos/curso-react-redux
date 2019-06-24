@@ -6,7 +6,7 @@ export default {
 
 /* Heroku */
 export default {
-    API_URL: 'https://financeiro-maicon.herokuapp.com/api',
-    OAPI_URL: 'https://financeiro-maicon.herokuapp.com/oapi',
+    API_URL: 'https://financeiro-backend.herokuapp.com/api',
+    OAPI_URL: 'https://financeiro-backend.herokuapp.com/oapi',
 }
 
