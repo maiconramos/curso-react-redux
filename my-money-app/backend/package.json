@@ -8,7 +8,7 @@
     "production": "pm2 start src/loader.js --name my-money-backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maicon",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "3.0.0",
